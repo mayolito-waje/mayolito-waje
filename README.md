@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mayolito C. Waje</h1>
-<h3 align="center">I am a Computer Science student and an aspiring developer and looking for opportunities to enter the industry.</h3>
-
-- 🔭 I’m currently working on [chatlify](https://github.com/VendeM0us/chatlify)
-
-- 🌱 I’m currently learning **the MERN stack**
+<h3 align="center">I am a Computer Science student and an aspiring developer. I am looking for opportunities to enter the industry.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/VendeM0us](https://github.com/VendeM0us)
 
-- 📫 How to reach me **mayolito.waje.social@gmail.com**
+- 📫 Reach me at **mayolito.waje.social@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
