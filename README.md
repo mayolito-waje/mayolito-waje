@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayolito C. Waje</h1>
 <h3 align="center">I am a Computer Science student and an aspiring developer. I am looking for opportunities to enter the industry.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/VendeM0us](https://github.com/VendeM0us)
+- 👨‍💻 All of my projects are available at [https://github.com/mayolito-waje](https://github.com/mayolito-waje)
 
 - 📫 Reach me at **mayolito.waje.social@gmail.com**
 
